@@ -1,0 +1,4 @@
+schedule
+python_mpv_jsonipc
+PySimpleGUI
+rakutenma
